@@ -1,5 +1,5 @@
 <!---### Hi there 👋 -->
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; justify-content: flex-end">
   <h1>These are my stats</h1>
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Giock24&show_icons=true&theme=tokyonight" />
