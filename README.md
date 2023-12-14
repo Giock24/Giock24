@@ -1,5 +1,5 @@
 <!---### Hi there 👋 -->
-<h1>This are my stats</h1>
+<h1 align="center">These are my stats</h1>
 
 ![Giock24's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giock24&show_icons=true&theme=tokyonight)
 
