@@ -1,6 +1,6 @@
 <!---### Hi there 👋 -->
 
-![Giock24's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giock24&show_icons=true&bg_color=00000000)
+![Giock24's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giock24&show_icons=true&theme=tokyonight)
 
 <!--
 **Giock24/Giock24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
