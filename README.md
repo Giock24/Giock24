@@ -1,8 +1,9 @@
 <!---### Hi there 👋 -->
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <h1 align="center">These are my stats</h1>
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Giock24&show_icons=true&theme=tokyonight" />
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Giock24&show_icons=true&theme=tokyonight" />
+  </p>
   
   <h1 align="center">My most used languages</h1>
 
