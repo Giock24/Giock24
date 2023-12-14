@@ -1,13 +1,14 @@
 <!---### Hi there 👋 -->
-<div style="display: flex; flex-direction: row; justify-content: center;">
+<div style="display: flex; flex-direction: row;">
   <h1 align="center">These are my stats</h1>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Giock24&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Giock24&show_icons=true&theme=tokyonight" />
   </p>
   
   <h1 align="center">My most used languages</h1>
-
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giock24&theme=tokyonight&layout=donut-vertical"/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giock24&theme=tokyonight&layout=donut-vertical"/>
+  </p>
 </div>
 <!--
 ![Giock24's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giock24&show_icons=true&theme=tokyonight)
