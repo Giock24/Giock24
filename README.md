@@ -1,33 +1,34 @@
-<!---### Hi there 👋 -->
-<div style="display: flex; flex-direction: row;">
-  <h1 align="center">These are my stats</h1>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Giock24&show_icons=true&theme=tokyonight" />
-  </p>
+# Gianluca Consoli, CFA  
+_Portfolio Manager – European Leveraged Finance_
 
-  
-  <h1 align="center">My most used languages</h1>
+## About me  
+Breve introduzione (chi sei, cosa fai, cosa ti distingue).
+
+## Areas of expertise  
+- Leveraged finance (bank loans & high-yield bonds)  
+- Credit analysis – Industrial sectors, building materials, travel/transport  
+- Global investment mandates  
+- … (altre competenze)
+
+## Professional highlights  
+- Current role: Portfolio Manager at PGIM Fixed Income, London – responsible for bank loans & high-yield bonds across mandates.  
+- Previous: Credit analyst at Columbia Threadneedle Investments; career start at Citi and Goldbridge Capital Partners.  
+- Education: MA (Hons) in Economics (University of Cambridge) • CFA charterholder.  
+- … (altri punti)
+
+## GitHub stats  
+<div style="display: flex; flex-direction: row;">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giock24&theme=tokyonight&layout=donut-vertical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Giock24&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giock24&theme=tokyonight&layout=donut-vertical" alt="Top Languages" />
   </p>
 </div>
-<!--
-![Giock24's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giock24&show_icons=true&theme=tokyonight)
--->
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giock24&theme=tokyonight&layout=donut-vertical)](https://github.com/Giock24/github-readme-stats)
--->
-<!--
-**Giock24/Giock24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Currently working on  
+Breve frase su cosa stai attualmente facendo o cercando di fare (es: nuovi progetti, linguaggi che impari, collaborazioni).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch  
+- LinkedIn: [linkedin.com/in/gianluca-consoli-26385a348](https://www.linkedin.com/in/gianluca-consoli-26385a348/)  
+- Email: your.email@example.com  
