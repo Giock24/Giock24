@@ -31,4 +31,4 @@ Breve frase su cosa stai attualmente facendo o cercando di fare (es: nuovi proge
 
 ## Get in touch  
 - LinkedIn: [linkedin.com/in/gianluca-consoli-26385a348](https://www.linkedin.com/in/gianluca-consoli-26385a348/)  
-- Email: your.email@example.com  
+- Email: gianluca.consoliunilav@gmail.com
