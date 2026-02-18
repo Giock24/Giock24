@@ -3,7 +3,7 @@ _Portfolio Manager – European Leveraged Finance_
 
 ## About me  
 Ciao sono Gianluca Consoli, un ragazzo che si é laureato come ingegnere informatico e attualmente lavoro in una azienda di nome Newteam.
-Ciò che mi contradistigue é ascoltare le problematiche richieste da clienti o colleghi e di saperli risolvere in meno tempo possibile, mi piace lavorare in team con altre persone e sono disposto a imparare sempre nuove skills.
+Ciò che mi contradistigue é ascoltare le problematiche richieste da clienti o colleghi e di saperli risolvere nel minor tempo possibile, mi piace lavorare in team con altre persone e sono disposto a imparare sempre nuove skills.
 
 ## Areas of expertise  
 - AI Prompt Engineer
