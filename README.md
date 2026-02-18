@@ -2,19 +2,18 @@
 _Portfolio Manager – European Leveraged Finance_
 
 ## About me  
-Breve introduzione (chi sei, cosa fai, cosa ti distingue).
+Ciao sono Gianluca Consoli, un ragazzo che si é laureato come ingegnere informatico e attualmente lavoro in una azienda di nome Newteam.
+Ciò che mi contradistigue é ascoltare le problematiche richieste da clienti o colleghi e di saperli risolvere in meno tempo possibile, mi piace lavorare in team con altre persone e sono disposto a imparare sempre nuove skills.
 
 ## Areas of expertise  
-- Leveraged finance (bank loans & high-yield bonds)  
-- Credit analysis – Industrial sectors, building materials, travel/transport  
-- Global investment mandates  
-- … (altre competenze)
+- AI Prompt Engineer
+- Sviluppo full-stack di applicazioni web
+- Progettazione API REST
 
 ## Professional highlights  
-- Current role: Portfolio Manager at PGIM Fixed Income, London – responsible for bank loans & high-yield bonds across mandates.  
-- Previous: Credit analyst at Columbia Threadneedle Investments; career start at Citi and Goldbridge Capital Partners.  
-- Education: MA (Hons) in Economics (University of Cambridge) • CFA charterholder.  
-- … (altri punti)
+- Ruolo ricoperto attualmente: Junior Developer in NewTeam, Cesena – AI Full stack developer.  
+- Precedenti: 404 NOT FOUND  
+- Education: //TO-DO da aggiungere, esempio: MA (Hons) in Economics (University of Cambridge) • CFA charterholder.  
 
 ## GitHub stats  
 <div style="display: flex; flex-direction: row;">
