@@ -16,13 +16,12 @@ Ciò che mi contradistigue é ascoltare le problematiche richieste da clienti o 
 - Education: //TO-DO da aggiungere, esempio: MA (Hons) in Economics (University of Cambridge) • CFA charterholder.  
 
 ## GitHub stats  
-<div style="display: flex; flex-direction: row;">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Giock24&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giock24&theme=tokyonight&layout=donut-vertical" alt="Top Languages" />
-  </p>
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Giock24&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Giock24&theme=tokyonight&layout=donut-vertical" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=Giock24&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## Currently working on  
